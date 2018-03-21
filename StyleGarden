@@ -1,0 +1,27 @@
+/*
+Color Palette:
+Dark Brown: #331e08
+Light Brown:
+Light Green:
+Bright Green:#2e7f1a
+Dark Green:
+Tan:
+Beige: #a58c61
+Gray:
+*/
+body {
+  color: #331e08; /*Dark Brown*/
+  background-color: #331e08; /*Replace with Img?*/
+  padding: 0 5% 5%;
+}
+a {
+  color: #2e7f1a /*Bright Green*/
+}
+section{
+  background-color: #a58c61; /*Beige*/
+  margin: 1em;
+  padding: 2em;
+}
+h1 {
+  color:
+}

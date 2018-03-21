@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Nourishing Steil | About Me</title>
+  <link rel="stylesheet" type="text/css" href="file:///home/wolfram/Code/NourishingSteil/StyleGarden">
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li>Home</li>
+      <li>Services</li>
+      <li>About</li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <section id="tracy-bio">
+      <h1>About Tracy</h1>
+      <p>
+        As a health coach certified through the Institute of Integrative Nutrition, I offer a rounded approach of supportive practices. I specialize in gut and brain health. Helping calm stress, stabilize moods and sustain balance is my passion.
+        <br>
+        I love continuously learning and sharing ways to think and feel better, and how to get in touch with what works on a personal level. Seeing the impact of diabetes, inflammation, and chronic pain in family members has spurred interest in understanding what can really help. I support knowing and applying how to improve balance of energy and manage stress.
+        <br>
+        Enjoying a more natural lifestyle, I have been gardening, preserving food, and raising chickens. Traditional cooking has also been a growing experience, with sprouts, fermenting, and starters in the kitchen. My cooking is enjoyed with seasonings, bone broths and fresh produce.
+    ​    <br>
+        I’m a mother of four, including one on the autism spectrum. I have seen and experienced how depression, anxiety, and insomnia impacts relationships. Brain and hormonal health focus became a driver of better food and lifestyle choices in our home.
+      </p>
+      <p>
+        Book a free call to discuss your desired health outcomes. You can also text or email (at the number or email given below) with questions or comments.
+      </p>
+    </section>
+  </main>
+
+    <section id="specialties">
+      <h2>Specialties</h2>
+        <ul>
+          <li>Digestive Health</li>
+          <li>Brain Health</li>
+          <li>Hormonal Balance</li>
+        </ul>
+    </section>
+
+    <section id="contact"> <!--WARNING: content requires mutability-->
+    <h2>Contact</h2>
+      <ul>
+        <li>nourishingsteil@gmail.com</li>
+        <li>cell: 1-306-930-0528</li>
+        <li> <a target="_blank" href="t.me/nourishingsteil">Telegram</a> </li>
+        <li> <a target="_blank" href="facebook.com/SustainableBalance">Facebook</a> </li>
+        <li> <a target="_blank" href="twitter.com/nourishingsteil">Twitter</a> </li>
+      </ul>
+    </section>
+
+</body>
+</html>

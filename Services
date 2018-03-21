@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+<!--WARNING: content requires mutability-->
+<head lang="en">
+  <meta charset="utf-8">
+  <title>Nourishing Steil | Services</title>
+  <link rel="stylesheet" type="text/css" href="file:///home/wolfram/Code/NourishingSteil/StyleGarden">
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li>Home</li>
+      <li>Services</li>
+      <li>About</li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <section>
+    <h1>Services</h1>
+    <dl>
+      <dt>Descovery Session</dt>
+        <dd>Free</dd>
+        <dd>
+          Where has your health journey been? What do you want your health to be like?
+          To be the best you can be, get a clear picture of your health journey - where you're coming from and where you want to be. It's time to focus on YOU.
+        </dd>
+
+      <dt>Bi-weekly Coaching</dt>
+        <dd>
+          Together we can find clarity and strategies that work best for you. Calm stress, build resilience, and maintain sustainable balance. Get better sleep and restore energy.
+        </dd>
+
+      <dt>Wellness Circle</dt>
+        <dd>
+          Improve sleep, hydration, routine self care, and physical activity. Get accountability and support from your coach and from others on the same road to greater rest, vitality, endurance, and productivity. You know it feels great to accomplish your goals, and having accountability and support improves success.
+        </dd>
+        <dd>
+          Start date to be announced.
+        </dd>
+      </dl>
+      </section>
+
+  </main>
+
+</body>
+</html>

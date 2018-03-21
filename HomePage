@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<!--HELLO WORLD-->
+<head>
+  <meta charset="utf-8">
+  <title>Nourishing Steil</title>
+  <link rel="stylesheet" type="text/css" href="file:///home/wolfram/Code/NourishingSteil/StyleGarden">
+</head>
+<body>
+
+  <nav id="navbar">
+    <ul>
+      <li>Home</li>
+      <li>Services</li>
+      <li>About</li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <section> <!--Insert: slideshow, Links to relevent pages-->
+    </section>
+
+    <section> <!--Insert: Link to about page, Image of Tracy-->
+    <h1>Meet Tracy</h1>
+    <img src="" alt="Image of Tracy Steil">
+    <p> As a health coach certified through the Institute of Integrative Nutrition, I offer a rounded approach of supportive practices. I specialize in gut and brain health. Helping calm stress, stabilize moods and sustain balance is my passion...
+    <a href="">About Tracy</a>
+    </p>
+    </section>
+
+  </main>
+
+</body>
+</html>
